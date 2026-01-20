@@ -10,8 +10,7 @@ The main cloud service models are IaaS, PaaS, and SaaS, each offering different 
 
 ## 3 Cloud service providers and their free-tier / trial offers
 a) **Microsoft Azure**:-
-
-        Microsoft Azure is a cloud computing platform and the service provided by Microsoft that allows individuals and organizations to build, deploy, and manage applications and services over the internet instead of using local servers or personal computers. It offers a wide range of cloud services such as virtual machines, storage, databases, networking, web hosting, artificial intelligence, and security services. It supports multiple programming languages and operating systems, making it suitable for developing web applications, running enterprise systems, storing data, and performing analytics. ie, Microsoft Azure lets users rent computing resources online so they can run software, store data, and scale applications without buying or maintaining physical hardware.
+      Microsoft Azure is a cloud computing platform and the service provided by Microsoft that allows individuals and organizations to build, deploy, and manage applications and services over the internet instead of using local servers or personal computers. It offers a wide range of cloud services such as virtual machines, storage, databases, networking, web hosting, artificial intelligence, and security services. It supports multiple programming languages and operating systems, making it suitable for developing web applications, running enterprise systems, storing data, and performing analytics. ie, Microsoft Azure lets users rent computing resources online so they can run software, store data, and scale applications without buying or maintaining physical hardware.
         
  ** What the free tier/trial includes?**
       > $200 in free credits to use on any Azure service upon signup.
@@ -28,7 +27,7 @@ a) **Microsoft Azure**:-
       > Monthly usage limits apply for free services — if you exceed them, charges may begin.
       > Some free services may be limited to specific regions or quotas.
 
-b) **Amazon Web Services (AWS)**
+b) **Amazon Web Services (AWS)**:- 
         Amazon Web Services is a cloud computing platform provided by Amazon that offers on-demand access to computing resources over the internet. It allows users to use services such as virtual servers, data storage, databases, networking, and application hosting without needing to own physical hardware. It is widely used for building websites, hosting applications, storing and analyzing data, and running large-scale enterprise systems. In short, AWS lets us rent IT infrastructure online and pay only for what we use, making it flexible, scalable, and cost-effective.
         
     ** What the free tier/trial includes?**
@@ -47,7 +46,7 @@ b) **Amazon Web Services (AWS)**
        > Exceeding usage caps or credits leads to normal billing.
        > Free Tier may not include all regions or all services.
 
- c) **Google Cloud Platform (GCP)**
+ c) **Google Cloud Platform (GCP)**:- 
         Google Cloud Platform is a cloud computing service provided by Google that delivers computing resources over the internet. GCP offers services such as virtual machines, cloud    storage, databases, networking, machine learning, and data analytics. It is commonly used to host applications, store data, process large datasets, and build scalable cloud-based solutions. In simple, it allows users to use Google’s infrastructure online to build, run, and scale applications without managing physical servers.
         
       **What the free tier/trial includes**
