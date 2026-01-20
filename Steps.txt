@@ -1,0 +1,31 @@
+Steps to create Microsoft Azure Account
+
+Cloud Provider: Microsoft Azure
+
+Step-by-Step Account Creation Process:
+
+Step 1: Opened a web browser and visited the official Microsoft Azure website.
+Step 2: Clicked on the "Start free" or "Free account" option.
+Step 3: Signed in using an existing Microsoft account. (If not available, create a new one using an email address).
+Step 4: Verified the email address by entering the verification code sent to the email.
+Step 5: Entered personal details such as name, country/region, and phone number.
+Step 6: Completed phone verification by entering the OTP received on the registered mobile number.
+Step 7: Added a credit card details for identity verification.
+Step 8: Confirmed the payment details (no charges were made during signup).
+Step 9: Accepted the terms and conditions.
+Successfully completed the registration and accessed the Azure Portal dashboard
+
+Verification Performed:
+
+> Email verification: Yes
+> Phone verification: Yes (OTP-based)
+
+Payment Method Required:
+
+> Yes (Credit/Debit card required for verification only)
+
+Notes:
+
+1. Azure provides $200 free credits valid for 30 days.
+2. Selected services are available free for 12 months with usage limits.
+3. Charges apply only if free limits are exceeded.
