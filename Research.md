@@ -18,7 +18,7 @@ a) **Microsoft Azure**:-
       > Some free services may be limited to specific regions or quotas.
 
 b) **Amazon Web Services (AWS)**:- 
-        Amazon Web Services is a cloud computing platform provided by Amazon that offers on-demand access to computing resources over the internet. It allows users to use services such as virtual servers, data storage, databases, networking, and application hosting without needing to own physical hardware. It is widely used for building websites, hosting applications, storing and analyzing data, and running large-scale enterprise systems. In short, AWS lets us rent IT infrastructure online and pay only for what we use, making it flexible, scalable, and cost-effective.
+        This is a cloud computing platform provided by Amazon that offers on-demand access to computing resources over the internet. It allows users to use services such as virtual servers, data storage, databases, networking, and application hosting without needing to own physical hardware. It is widely used for building websites, hosting applications, storing and analyzing data, and running large-scale enterprise systems. In short, AWS lets us rent IT infrastructure online and pay only for what we use, making it flexible, scalable, and cost-effective.
         
     ** What the free tier/trial includes?**
        > Up to $200 in AWS credits when starting a new account, usable on many services.
@@ -37,7 +37,7 @@ b) **Amazon Web Services (AWS)**:-
        > Free Tier may not include all regions or all services.
 
  c) **Google Cloud Platform (GCP)**:- 
-        Google Cloud Platform is a cloud computing service provided by Google that delivers computing resources over the internet. GCP offers services such as virtual machines, cloud    storage, databases, networking, machine learning, and data analytics. It is commonly used to host applications, store data, process large datasets, and build scalable cloud-based solutions. In simple, it allows users to use Google’s infrastructure online to build, run, and scale applications without managing physical servers.
+       This cloud computing service is provided by Google that delivers computing resources over the internet. GCP offers services such as virtual machines, cloud    storage, databases, networking, machine learning, and data analytics. It is commonly used to host applications, store data, process large datasets, and build scalable cloud-based solutions. In simple, it allows users to use Google’s infrastructure online to build, run, and scale applications without managing physical servers.
         
       **What the free tier/trial includes**
          > $300 free credits to spend on almost any Google Cloud service.
