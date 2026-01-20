@@ -9,7 +9,8 @@ The wide ranges of cloud services are virtual servers, storage systems, database
 The main cloud service models are IaaS, PaaS, and SaaS, each offering different levels of control and management.
 
 ## 3 Cloud service providers and their free-tier / trial offers
-a) **Microsoft Azure**
+a) **Microsoft Azure**:-
+
         Microsoft Azure is a cloud computing platform and the service provided by Microsoft that allows individuals and organizations to build, deploy, and manage applications and services over the internet instead of using local servers or personal computers. It offers a wide range of cloud services such as virtual machines, storage, databases, networking, web hosting, artificial intelligence, and security services. It supports multiple programming languages and operating systems, making it suitable for developing web applications, running enterprise systems, storing data, and performing analytics. ie, Microsoft Azure lets users rent computing resources online so they can run software, store data, and scale applications without buying or maintaining physical hardware.
         
  ** What the free tier/trial includes?**
